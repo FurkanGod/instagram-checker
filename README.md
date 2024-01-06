@@ -11,9 +11,9 @@ instagram hesaplarını otomatik deneyen instagram checker
 
 `pip install colorama`
 
-`python insta.py`
+`python inst.py`
 
 
 # İLETİŞİM 
 
-[ + ] Telegram Hesabım: [@JesusOrj](https://t.me/JesusOrj)
++ Telegram Hesabım: [@JesusOrj](https://t.me/JesusOrj)
